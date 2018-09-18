@@ -48,4 +48,31 @@ img:hover {
 
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 
+/*.column{*/
+/*  display:inline-block;*/
+/*  width:33%;*/
+/*  position:relative;*/
+/*}*/
+
 /* create your tile classes! we recommend .small .med .large */
+
+.column1, .column2, .column3 {
+  display:inline-block;
+  width:33%;
+  height:33%;
+  position:relative
+}
+.small {
+  width:auto;
+  height:auto;
+}
+
+.medium {
+  width:auto;
+  height:auto;
+}
+
+.large {
+  width:auto;
+  height:auto;
+}
