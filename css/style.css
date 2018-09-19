@@ -59,7 +59,7 @@ img:hover {
 .column1, .column2, .column3 {
   display:inline-block;
   width:33%;
-  height:33%;
+  height:100%;
   position:relative
 }
 .small {
